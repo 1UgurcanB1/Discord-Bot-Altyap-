@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const http = require('http');
     app.get("!", (request, response) => {
-    console.log(`Youtube ArdaDemr | Bot Hostlandı.`);
+    console.log(`Bot hazıır.`);
     response.sendStatus(200);
     });
     app.listen(process.env.PORT);
