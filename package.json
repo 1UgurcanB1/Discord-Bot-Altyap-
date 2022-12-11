@@ -19,7 +19,7 @@
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
     "discord.js-minesweeper": "^1.0.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "figlet": "^1.2.4",
     "fortnitetracker-7days-stats": "^3.3.0",
